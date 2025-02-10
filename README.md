@@ -15,3 +15,5 @@
 - **Gogle table**: Сохраняет результат работы и служит источником для анализа полученных данных
 
 ## Скриншоты
+- [**Сценарий Make**](https://github.com/VladimirMenshikov/Transcribing-sales-calls/blob/main/img/Сценарий%20Make.jpg)
+- [**Результат в Google Sheets**](https://github.com/VladimirMenshikov/Transcribing-sales-calls/blob/main/img/Результат%20в%20Google%20Sheets.jpg)
